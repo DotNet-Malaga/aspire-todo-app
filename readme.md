@@ -1,5 +1,7 @@
 # Local Development
 
+![Presentation image](https://pbs.twimg.com/media/GdD9BG9WIAAgsv_?format=jpg&name=large)
+
 ## Prerequisites
 
 - Docker
